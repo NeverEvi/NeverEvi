@@ -5,7 +5,8 @@
 - 📫 How to reach me: thhjp.dekimasen@gmail.com
 
 ***My Languages and tools:
-[![image](https://user-images.githubusercontent.com/113251601/199761243-84b5d775-0320-481b-a2a2-1077481c1600.png)](https://icons8.com/icon/108784/javascript)
+(https://user-images.githubusercontent.com/113251601/199762720-0f535975-3418-4deb-b71d-3de6d4d0a215.png)
+108784/javascript)
 
 
 <!---
