@@ -5,8 +5,8 @@
 - 💞️ I’m looking to collaborate on a game project.
 - 📫 How to reach me: thhjp.dekimasen@gmail.com
 
-***My Languages and tools:
-*
+***My Languages and tools:  
+*  
 ![image](https://user-images.githubusercontent.com/113251601/199762720-0f535975-3418-4deb-b71d-3de6d4d0a215.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/113251601/199764095-a747ba65-3143-4dc4-8e46-83afe005a117.png)
 ![icons8-html-5-48](https://user-images.githubusercontent.com/113251601/199764944-9a9cf7b9-98f3-4378-8af6-c4b4f5fca5d2.png)
