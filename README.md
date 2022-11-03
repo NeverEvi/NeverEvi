@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @NeverEvi
 - 👀 I’m interested in Video games, Languages, and Movies
 - 🌱 I’m currently learning HTML, CSS, and JS, and currently taking the Yandex Practicum software engineering course.
-- 💞️ I’m looking to collaborate on a game project.
+- 💞️ I’m looking to collaborate on creative projects!
 - 📫 How to reach me: thhjp.dekimasen@gmail.com
 
 ##My Languages and tools:  
