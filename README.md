@@ -5,9 +5,9 @@
 - 📫 How to reach me: thhjp.dekimasen@gmail.com
 
 ***My Languages and tools:
-(https://user-images.githubusercontent.com/113251601/199762720-0f535975-3418-4deb-b71d-3de6d4d0a215.png)
-108784/javascript)
 
+![image](https://user-images.githubusercontent.com/113251601/199762720-0f535975-3418-4deb-b71d-3de6d4d0a215.png)
+108784/javascript)
 
 <!---
 NeverEvi/NeverEvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
