@@ -15,12 +15,7 @@
 ![icons8-console-48](https://user-images.githubusercontent.com/113251601/199769576-767028ed-285f-4650-8d28-36a067237020.png)
 ![icons8-gimp-48](https://user-images.githubusercontent.com/113251601/199765202-053bc301-c08b-4a5a-ba90-bf607e5d6281.png)
 ![dev64ba](https://user-images.githubusercontent.com/113251601/199766991-c12521e5-d055-4734-b623-c1a50eaa1a9f.png)
-![React-icon svg](https://user-images.githubusercontent.com/113251601/234357451-cedbef1b-cbcd-481e-96ac-659ae98820ea.png)
-
-
-
-
-
+https://cdn.iconscout.com/icon/free/png-256/free-react-4-1175110.png?f=avif&w=128
 
 <!---
 NeverEvi/NeverEvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
