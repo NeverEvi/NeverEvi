@@ -14,9 +14,9 @@
 ![icons8-figma-48](https://user-images.githubusercontent.com/113251601/199779639-99403f0b-a7bf-4b0b-9818-9ccce149af87.png)
 ![icons8-console-48](https://user-images.githubusercontent.com/113251601/199769576-767028ed-285f-4650-8d28-36a067237020.png)
 ![icons8-gimp-48](https://user-images.githubusercontent.com/113251601/199765202-053bc301-c08b-4a5a-ba90-bf607e5d6281.png)
-![dev64ba](https://user-images.githubusercontent.com/113251601/199766991-c12521e5-d055-4734-b623-c1a50eaa1a9f.png)
-![react](https://user-images.githubusercontent.com/113251601/234358163-7d727c85-be96-4e69-bc53-4f231a69c746.svg | width: 100)
-<img src="https://user-images.githubusercontent.com/113251601/234358163-7d727c85-be96-4e69-bc53-4f231a69c746.svg" width="100" height="100">
+![dev64ba]()
+<img src="https://user-images.githubusercontent.com/113251601/234358163-7d727c85-be96-4e69-bc53-4f231a69c746.svg" width="80" height="80">
+<img src="https://user-images.githubusercontent.com/113251601/199766991-c12521e5-d055-4734-b623-c1a50eaa1a9f.png" width="80" height="80">
 <!---
 NeverEvi/NeverEvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
