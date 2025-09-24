@@ -6,7 +6,7 @@ Always looking to learn and improve!
 - 📫 How to reach me: You can email me at thhjp.dekimasen@gmail.com, or message me <a href="https://bsky.app/profile/neverevi.blueskaia.net">on Bluesky</a>!
 
 Current Projects:
-- 👁️ <a href="https://never-evi.itch.io/cerulia">Cerulia Online</a> (PRE-ALPHA, ON HIATUS)
+- 👁️ <a href="https://never-evi.itch.io/cerulia">Cerulia Online</a> (PRE-ALPHA)
 - 🖤 <a href="https://www.byond.com/games/Enakro/FindingTheLight">Finding The Light</a>
 
   
