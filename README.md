@@ -9,28 +9,28 @@ I specialize in building interactive systems, scalable architectures, and immers
 - Solo-developed Unity project
 - Modular gameplay systems (combat, inventory, interaction)
 - Active versioned development and iteration
-- Playable builds available on itch.io
+- Playable build available on <a href="https://never-evi.itch.io/cerulia">itch.io</a>
 
 🖤 <a href="https://www.byond.com/games/Enakro/FindingTheLight">Finding The Light</a>
-- Story-driven pixelart RPG
-- made using BYOND
+- Story-driven pixelart RPG developed using BYOND (DM)
+- Focused on narrative design and atmospheric storytelling
 
-🐷 Super Pig Kicker
-- Physics-based arcade game focused on responsive gameplay
+🐷 Super Pig Kicker (Upcoming Steam Release)
+- Physics-based arcade game focused on responsive, satisfying gameplay
 - Designed around timing, force mechanics, and player feedback
 - Currently preparing for commercial release on Steam
   
 ## Skills and tools:
 
-⭐ Software Engineering
+💻 Software Engineering
 
 - React, JavaScript (ES6+), HTML5, CSS3
 
-⭐ Game Development
+🎮 Game Development
 
 - Unity, C#, Object-Oriented Programming, BYOND (DM), Limited Experience with Godot
 
-⭐ Tools
+🔧 Tools
 
 - Git, GitHub, Visual Studio, GIMP
 
