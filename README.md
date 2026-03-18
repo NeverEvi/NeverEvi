@@ -26,7 +26,7 @@ I specialize in building interactive systems, scalable architectures, and immers
 
 - React, JavaScript (ES6+), HTML5, CSS3
 
-⭐ ame Development
+⭐ Game Development
 
 - Unity, C#, Object-Oriented Programming, BYOND (DM), Limited Experience with Godot
 
