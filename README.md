@@ -11,7 +11,7 @@ I specialize in building interactive systems, scalable architectures, and immers
 - Active versioned development and iteration
 - Playable build available on <a href="https://never-evi.itch.io/cerulia">itch.io</a>
 
-🖤 <a href="https://www.byond.com/games/Enakro/FindingTheLight">Finding The Light</a>
+🖤 <a href="https://www.byond.com/games/Enakro/FindingTheLight">Finding The Light</a> (In development)
 - Story-driven pixelart RPG developed using BYOND (DM)
 - Focused on narrative design and atmospheric storytelling
 
