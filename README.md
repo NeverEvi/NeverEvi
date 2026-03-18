@@ -10,6 +10,7 @@ I specialize in building interactive systems, scalable architectures, and immers
 - Modular gameplay systems (combat, inventory, interaction)
 - Active versioned development and iteration
 - Playable builds available on itch.io
+
 🖤 <a href="https://www.byond.com/games/Enakro/FindingTheLight">Finding The Light</a>
 - Story-driven pixelart RPG
 - made using BYOND
